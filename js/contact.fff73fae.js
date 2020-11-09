@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["contact"],{b8fa:function(e,n,c){"use strict";c.r(n);var t=c("7a23");function o(e,n){return Object(t["openBlock"])(),Object(t["createBlock"])("div",null," contact.page ")}var a=Object(t["defineComponent"])({}),r=a;r.render=o;n["default"]=r}}]);
